@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/curve3/matrix.git"
+		"url": "git+https://github.com/3dlyra/curve3.git"
 	},
 	"files": [
 		"curve3.js",
